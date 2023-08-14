@@ -8,5 +8,5 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - Projects: '/projects/index.md'
+  - Projects:
     - Bruteforcer: '/projects/bruteforcer.md'
