@@ -1,5 +1,5 @@
 # Docley
-My personal Documentation
+My personal Documentation.
 ## Requirements
 - GitHub Runner
 
@@ -43,5 +43,5 @@ jobs:
 *note that if you are using a different theme, you will need to replace the mkdocs-bootstrap386 theme with the one you are using.*  
 - Enable GitHub pages in your repository settings | Make sure to deploy from the `gh-pages` branch from the `root` directory.
 
-## Help
-If you would like to edit for example the navigation bar, or enable some plugins, this can be configured in the `mkdocs.yml` file | See the [official documentation](https://www.mkdocs.org/user-guide/configuration/)
+## Configuration
+If you would like to edit for example the navigation bar, this can be configured in the `mkdocs.yml` file | See the [official documentation](https://www.mkdocs.org/user-guide/configuration/)
