@@ -44,4 +44,12 @@ jobs:
 - Enable GitHub pages in your repository settings | Make sure to deploy from the `gh-pages` branch from the `root` directory.
 
 ## Configuration
-If you would like to edit for example the navigation bar, this can be configured in the `mkdocs.yml` file | See the [official documentation](https://www.mkdocs.org/user-guide/configuration/)
+If you would like to edit for example the navigation bar, this can be configured in the `mkdocs.yml` file | See the [official documentation](https://www.mkdocs.org/user-guide/configuration/)  
+### Custom Domain
+First of all, you must create the appropriate DNS records, as stated [**here**](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
+Next add a file called `CNAME` to the branch you are deploying from, with the following contents:
+```
+example.domain.com
+```
+
+## Extensions
