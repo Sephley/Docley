@@ -3,4 +3,5 @@ theme:
   name: bootstrap386
 
 nav:
-  - Home: index.md
+  - Home: 'index.md'
+  - Projects: '/projects/'
