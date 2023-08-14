@@ -53,3 +53,5 @@ example.domain.com
 ```
 
 ## Extensions
+To use extensions such as these [**official markdown extensions**](https://python-markdown.github.io/extensions/), you can install `pymdown-extensions` with pip.  
+If you would like to use some [**third-party exensions**](https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions), you must install these separately.
