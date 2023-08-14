@@ -7,7 +7,6 @@ theme:
     - markdown.extensions.wikilinks
 
 nav:
-  - Home: /docs/index.md
+  - Home: index.md
   - Projects:
-    - Home: /docs/projects/index.md
-    - Bruteforcer: /docs/projects/bruteforcer.md
+    - Bruteforcer: bruteforcer.md
